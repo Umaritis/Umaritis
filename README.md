@@ -1,4 +1,4 @@
-<h1 align="center">Hi Aoa 👋, I'mMuhammad Umar</h1>
+<h1 align="center">Hi Aoa 👋, I'm Muhammad Umar</h1>
 <h3 align="center">A Full Stack Developer from Pakistan</h3>
 
 
