@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   LinkedIn: <a href="https://linkedin.com/in/muhammadumaritis" target="_blank">muhammadumaritis</a><br>
-  GitHub: <a href="https://github.com/umaritis" target="_blank">muhammadumaritis</a><br>
+  GitHub: <a href="https://github.com/umaritis" target="_blank">umaritis</a><br>
 </p>
 
 
