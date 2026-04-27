@@ -2,7 +2,6 @@
 <h3 align="center">A Full Stack Developer from Pakistan</h3>
 
 
-
 🔭 I’m currently working on backend-heavy applications using Node.js, Nest.js, and MongoDB
 
 🌱 I’m currently learning advanced AWS services, Docker workflows, and exploring Web3
